@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Image Background Remover
+# 🖼️ Image Background Remover
 
 ### Use Image Background Remover free on ToolAdda — quick, accurate, and browser-based.
 
